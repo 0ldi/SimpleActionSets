@@ -20,6 +20,7 @@ Do you find yourself reshuffling your spells around on your action bars when eve
 This addon will save all 120 actions, or just 1, and anywhere inbetween and let you swap them in at any time.
 
 * Features    
+
 Save actions in to sets. Save all 120, or just 1.   
 Swap those sets out at any time through a UI, dropdown menu, or macro.    
 Save new sets directly from your action bars, alter those sets independant of the default UI, or create them from scratch. Spells, macros, items, even dragged from the action bars, can be dropped in to the Simple Action Sets setup frame actions.   
