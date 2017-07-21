@@ -5,7 +5,7 @@ Save action bars as sets that can be swapped out.
 [Brodrick](http://web.archive.org/web/20060619062720/http://ui.worldofwar.net:80/ui.php?id=1560)
 
 # Showcase
-![](https://media-elerium.cursecdn.com/attachments/thumbnails/85/973/310/172/simple-action-sets-hunter-pve-set.jpg)
+![](https://media-elerium.cursecdn.com/attachments/85/973/simple-action-sets-hunter-pve-set.jpg)
 
 # Changelog
 * Nothing is changed, just for saving.
